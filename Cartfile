@@ -1,0 +1,6 @@
+github "Quick/Nimble"
+github "Quick/Quick"
+github "Swinject/Swinject"
+github "Moya/Moya"
+github "SwiftyJSON/SwiftyJSON"
+github "DaveWoodCom/XCGLogger"
